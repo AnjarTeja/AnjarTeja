@@ -48,7 +48,9 @@
 # 🎵 Spotify Playing
 
 <p align="center">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31hxxxxxxxxxxxx&cover_image=true&theme=default&show_offline=false&background_color=121212"/>
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ddyopqri777ypxq2yzrf5ouh4y&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false&profanity=false&hide_remaster=false">
+  </a>
 </p>
 
 ---
