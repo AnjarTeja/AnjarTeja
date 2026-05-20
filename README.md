@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anjar Tejakusumah</h1>
-<h3 align="center">💻 Informatics Engineering Student | Web & Mobile Developer 🚀</h3>
+
+<h3 align="center">
+💻 Informatics Engineering Student | Web & Mobile Developer 🚀
+</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Web+Developer;Mobile+Developer;Laravel+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
@@ -9,7 +12,7 @@
 
 <img align="right" alt="Coding" width="350" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 - 🎓 Informatics Engineering Student
 - 🌱 Currently learning **Laravel, Kotlin, and API Development**
@@ -19,16 +22,16 @@
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="left">
 
-<a href="https://www.instagram.com/anjar_theza05?igsh=MXh6ems2YWRubG9uaA==" target="blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://www.instagram.com/anjar_theza05?igsh=MXh6ems2YWRubG9uaA==" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://github.com/AnjarTeja" target="blank">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/AnjarTeja" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
@@ -39,7 +42,37 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,js,nextjs,kotlin,php,laravel,python,cpp" />
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <img src="https://skillicons.dev/icons?i=html" />
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img src="https://skillicons.dev/icons?i=js" />
+</a>
+
+<a href="https://nextjs.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=nextjs" />
+</a>
+
+<a href="https://kotlinlang.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=kotlin" />
+</a>
+
+<a href="https://www.php.net/downloads.php" target="_blank">
+  <img src="https://skillicons.dev/icons?i=php" />
+</a>
+
+<a href="https://laravel.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=laravel" />
+</a>
+
+<a href="https://www.python.org/downloads/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=python" />
+</a>
+
+<a href="https://isocpp.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=cpp" />
+</a>
 
 </p>
 
